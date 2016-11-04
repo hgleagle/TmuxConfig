@@ -1,0 +1,3 @@
+pane	golang	0	:vim	1	:*	0	:/home/hgl	1	vim	:vim /home/hgl/.tmux.conf
+window	golang	0	1	:*	bafd,143x34,0,0,0
+state	golang	
